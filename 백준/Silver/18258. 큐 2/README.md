@@ -44,5 +44,6 @@
  	2. DEQUE(데크, 덱)을 이용하여 마지막함수를 간단히 구할 수 있다.
            데크는 양방향 큐로 첫번째/마지막 큐를 쉽게 더하거나, 삭제, 조회 할 수 있다.
 	3. Scanner를 사용하면 속도가 안나기에 BufferedReader(new InputStreamReader)를 사용한다.
+ 	4. 출력 시 System.out.println을 사용하면 문자열에 \n이 포함되기에 정상출력되지 않음.
  
  </p>
