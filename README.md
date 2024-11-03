@@ -3,7 +3,7 @@
   - This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# review !
+# review
 <!--
 [24511][큐,스택] queuestack
 -->
